@@ -1,0 +1,15 @@
+{
+  "name": "array-product",
+  "version": "0.1.0",
+  "description": "Utility function to mimc Ruby's Array#product",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "test:watch": "ava --watch"
+  },
+  "author": "Daniel Flynn",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.12.1"
+  }
+}
